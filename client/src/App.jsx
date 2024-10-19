@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import SignIn from './pages/SignIn';
 import Header from './components/Header';
+import Footer from './components/Footer';
+
 
 
 export default function App() {
@@ -18,6 +20,7 @@ export default function App() {
         {/* <Route path='/search' element={<Search />} /> */}
 
       </Routes>
+      <Footer />
     </BrowserRouter>
   )
 }

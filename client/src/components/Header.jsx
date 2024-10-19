@@ -14,7 +14,7 @@ export default function Header() {
         
         <img src="/logo.PNG" alt="Logo" className="h-8 w-auto" />
      
-    
+   
       </Link>
       <form>
         <TextInput
