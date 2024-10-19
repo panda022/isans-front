@@ -21,7 +21,7 @@ export default function FooterCom() {
               <Footer.Title title='News and Events' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://isans.ca/news/'
+                  href='#'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
